@@ -13,7 +13,7 @@ Victory is an ads blocker proxy for Spotify, it blocks ads requests made by Spot
 #
 
 <p align="center">
-  <img src="https://github.com/osmanselimoglu53/Victory/blob/main/Presentation.png" />
+  <img src="https://github.com/osmanselimoglu53/Victory/blob/main/Presentation.PNG" />
 </p>
 
 
