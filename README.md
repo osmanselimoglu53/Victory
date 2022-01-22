@@ -6,7 +6,7 @@
 
 ## What is Victory ?
 
-SpotfAds is an ads blocker proxy for Spotify, it blocks ads requests made by Spotify. This is a small, very light program that can run in background in the taskbar and start automatically when Windows starts up if the option is enabled.
+Victory is an ads blocker proxy for Spotify, it blocks ads requests made by Spotify. This is a small, very light program that can run in background in the taskbar and start automatically when Windows starts up if the option is enabled.
 
 - It can be installed from [here](https://github.com/osmanselimoglu53/Victory/releases)
 
