@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Settings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Port>2468</Port>
+  <ProxyEnabled>false</ProxyEnabled>
+  <LaunchAtStartup>false</LaunchAtStartup>
+  <MinimizeWhenClosed>false</MinimizeWhenClosed>
+  <WindowVisibility>Visible</WindowVisibility>
+</Settings>
